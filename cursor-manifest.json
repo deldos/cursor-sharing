@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Memory Bank Framework – Cursor Rules",
+    "summary": "Blueprint for teams using the Memory Bank Framework in Cursor IDE. Focuses on documentation-first, BDD-driven development, with AI assistant rules for traceability, test automation, and standardized commit hygiene.",
+    "usage": [
+      "AI assistant operation rules in Cursor IDE",
+      "Consistent, versioned documentation structure",
+      "Connecting user stories to test and code",
+      "Standardizing naming, commit, and test practices"
+    ],
+    "link": "https://github.com//issues/1",
+    "tags": ["MemoryBank", "BDD", "CursorAI", "testing", "docs"]
+  },
+  {
+    "id": 3,
+    "title": "Chat Learning Extraction – Cursor Rules",
+    "summary": "Blueprint for automated extraction and structured classification of chat-derived technical insights in the Cursor IDE. Focuses on domain-specific document generation, semantic deduplication, and metadata-tagged knowledge capture for long-term team learning.",
+    "usage": [
+      "AI-powered classification and documentation of technical learnings from chats",
+      "Maintaining domain-specific files with consistent formatting",
+      "Deduplicating similar insights using semantic similarity detection",
+      "Generating a centralized master index with changelogs and review prompts"
+    ],
+    "link": "https://github.com//issues/3",
+    "tags": ["ChatMining", "LearningExtraction", "CursorAI", "KnowledgeBase", "NLP"]
+  }
+]
