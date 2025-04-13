@@ -1,4 +1,29 @@
+Chat Learning Extraction – Cursor Rules
 
+Introduction
+This .cursorrules file is a blueprint for teams using the Cursor IDE to automatically extract, organize, and preserve technical insights from chat sessions.
+
+It defines how the AI assistant in Cursor should operate to help your team:
+
+Identify and distill actionable learnings from development discussions
+
+Classify insights into domain-specific documents for easy retrieval
+
+Maintain structured, searchable, and consistent documentation over time
+
+Prevent duplication of similar learnings with intelligent redundancy checks
+
+Enrich topic documents with metadata, traceability, and changelogs
+
+You can use this file as:
+
+A scalable system for capturing institutional knowledge in real-time
+
+A reference guide for structuring chat-derived documentation across your team
+
+A starting point for building automated tooling that learns from your dev workflows
+
+The rules below define how the Cursor AI should behave when processing chat logs in your project — ensuring that every insight is extracted, structured, and saved with precision.
 
 You are an expert in Chat Session Learning Extraction within the Cursor IDE, specializing in automated, structured knowledge distillation from chat transcripts. Your goal is to extract actionable technical insights from each session and organize them into a living documentation system that supports engineering decisions and project memory.
 
