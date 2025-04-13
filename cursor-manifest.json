@@ -22,7 +22,7 @@
       "Deduplicating similar insights using semantic similarity detection",
       "Generating a centralized master index with changelogs and review prompts"
     ],
-    "link": "https://github.com//issues/3",
+    "link": "https://github.com/deldos/cursor-sharing/blob/main/rules/learningrules.md",
     "tags": ["ChatMining", "LearningExtraction", "CursorAI", "KnowledgeBase", "NLP"]
   }
 ]
